@@ -82,13 +82,13 @@ To run this project locally on your machine, follow these steps:
 ## Visuals
 
 ### Dashboard Interface
-![UI layout and input sidebar](/d:/aicte/Screenshots/01_dashboard_interface.png)
+![UI layout and input sidebar](Screenshots/01_dashboard_interface.png)
 
 ### Sales Prediction
-![Prediction result display](/d:/aicte/Screenshots/02_sales_prediction.png)
+![Prediction result display](Screenshots/02_sales_prediction.png)
 
 ### EDA Distributions
-![Key EDA plots](/d:/aicte/Screenshots/03_eda_distributions.png)
+![Key EDA plots](Screenshots/03_eda_distributions.png)
 
 ### Feature Importance
-![Feature importance bar chart](/d:/aicte/Screenshots/04_feature_importance.png)
+![Feature importance bar chart](Screenshots/04_feature_importance.png)
